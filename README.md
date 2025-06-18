@@ -56,10 +56,11 @@ Here's a list of the technologies I've worked with:
 
 Here are the organizations I've been a part of and my roles:
 
-* !http://googleusercontent.com/image_generation_content/0 **Deputy Design Lead** - Google Developer Group Davao (2025)
-* !http://googleusercontent.com/image_generation_content/1 **Web Manager** - Himati, The Official Student Publication of UP Mindanao (2024-2025)
-* !http://googleusercontent.com/image_generation_content/1 **Creatives Committee Head** - UP Salida (2023-2024)
-* !http://googleusercontent.com/image_generation_content/1 **Multimedia Manager** - Himati (2023-2024)
+* ⭐ **Deputy Design Lead** - Google Developer Group Davao (2025)
+* ✍️ **Web Manager** - Himati, The Official Student Publication of UP Mindanao (2024-2025)
+* 🎬 **Creatives Committee Head** - UP Salida (2023-2024)
+* 📸 **Multimedia Manager** - Himati (2023-2024)
+
 
 ---
 
