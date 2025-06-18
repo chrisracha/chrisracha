@@ -43,6 +43,14 @@ Here's a list of the technologies I've worked with:
 
 ---
 
+## Currently Exploring
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+
+---
+
 ## Organizations
 
 Here are the organizations I've been a part of and my roles:
