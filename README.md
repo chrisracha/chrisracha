@@ -62,8 +62,3 @@ Here are the organizations I've been a part of and my roles:
 * ✍️ **Web Manager** - Himati, The Official Student Publication of UP Mindanao (2024-2025)
 * 🎬 **Creatives Committee Head** - UP Salida (2023-2024)
 * 📸 **Multimedia Manager** - Himati (2023-2024)
-
-
----
-
----
