@@ -9,6 +9,8 @@ An incoming  4th-year BS Computer Science student at **UP Mindanao**.
 
 Here's a list of the technologies I've worked with:
 
+<div align="center">
+
 #### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -54,6 +56,8 @@ Here's a list of the technologies I've worked with:
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisracha&layout=compact&langs_count=10)
+
+</div>
 
 ## Organizations
 
