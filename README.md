@@ -53,6 +53,7 @@ Here's a list of the technologies I've worked with:
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisracha&layout=compact&langs_count=10)
 
 ## Organizations
 
