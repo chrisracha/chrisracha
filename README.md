@@ -46,6 +46,8 @@ Here's a list of the technologies I've worked with:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
+![MudBlazor](https://img.shields.io/badge/MudBlazor-1E88E5?style=for-the-badge&logo=blazor&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-6DB33F?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
