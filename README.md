@@ -1,6 +1,6 @@
 # Chris Samuel Salcedo
 
-An incoming  4th-year BS Computer Science student at **UP Mindanao**.
+A 4th-year BS Computer Science student at **UP Mindanao**.
 📧 [cosalcedo@up.edu.ph](mailto:cosalcedo@up.edu.ph)
 
 ---
